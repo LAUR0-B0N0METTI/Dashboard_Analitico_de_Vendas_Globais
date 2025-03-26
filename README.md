@@ -9,11 +9,11 @@ O objetivo deste projeto é fornecer uma visão detalhada das **tendências de v
 
 O Dashboard responde as perguntas abaixo:
 
-• Qual o valor total vendido?
-• Quantas vendas foram realizadas por categoria de produto?
-• Quantas vendas foram realizadas por país considerando a prioridade de entrega?
-• Qual foi a média de desconto nas vendas por subcategoria de produto?
-• Quais países tiveram maior média de valor de venda? Demonstre em um mapa.
+• Qual o valor total vendido? <br/>
+• Quantas vendas foram realizadas por categoria de produto? <br/>
+• Quantas vendas foram realizadas por país considerando a prioridade de entrega? <br/>
+• Qual foi a média de desconto nas vendas por subcategoria de produto? <br/>
+• Quais países tiveram maior média de valor de venda? Demonstre em um mapa. 
 
 
 ## 🔍 Principais Métricas e Visualizações  
