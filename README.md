@@ -63,5 +63,5 @@ Este dashboard fornece uma visão clara do desempenho de vendas, permitindo que 
 ## 📩 Contato  
 
 Caso tenha dúvidas ou sugestões, sinta-se à vontade para entrar em contato:  
-📧 Email: lauro.f.bonometti@gmail.com
+📧 Email: lauro.f.bonometti@gmail.com <br/>
 🔗 LinkedIn: https://br.linkedin.com/in/laurobonometti 
