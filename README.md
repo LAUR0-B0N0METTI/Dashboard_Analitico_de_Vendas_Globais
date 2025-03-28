@@ -21,14 +21,14 @@ O Dashboard responde as perguntas:
 3. **Média de Vendas por País** – Mapa interativo mostrando os países com maior volume de vendas.  
 4. **Contagem de Pedidos por País e Prioridade** – Comparação entre países e a prioridade dos pedidos (Alto, Médio, Baixo, Crítico).  
 5. **Média de Desconto por Subcategoria** – Comparação do impacto dos descontos aplicados em diferentes subcategorias de produtos.  
-
+<br/>
 
 ## 🛠 Tecnologias Utilizadas  
 
 - **Power BI** – Ferramenta utilizada para criar os dashboards interativos.  
 - **CSV Dataset** – Conjunto de dados estruturados para análise.  
 - **DAX & Power Query** – Aplicação de cálculos e manipulação de dados no Power BI. 
-
+<br/>
 
 ## 📁 Estrutura do Repositório  
 
@@ -40,7 +40,7 @@ O Dashboard responde as perguntas:
  ┣ 📜 Dashboard.pbix          # Arquivo principal do Power BI  
  ┣ 📜 README.md               # Documentação detalhada do projeto  
 ```
-
+<br/>
 
 ## 🚀 Como Usar  
 
@@ -51,15 +51,15 @@ O Dashboard responde as perguntas:
 2. Abra o arquivo `Dashboard Analitico de Vendas Globais.pbix` no Power BI.  
 3. Conecte-se ao dataset disponível na pasta `/dataset`.  
 4. Explore os relatórios interativos no Power BI.  
-
+<br/>
 
 ## 📈 Resultados e Insights  
 
 Este dashboard fornece uma visão clara do desempenho de vendas, permitindo que tomadores de decisão identifiquem oportunidades de crescimento, ajustem estratégias de vendas e melhorem a distribuição de produtos globalmente.  
-
+<br/>
 
 ## 📩 Contato  
 
-Caso tenha dúvidas ou sugestões, sinta-se à vontade para entrar em contato:  
+Caso tenha dúvidas ou sugestões, sinta-se à vontade para entrar em contato:  <br/>
 📧 Email: lauro.f.bonometti@gmail.com <br/>
 🔗 LinkedIn: https://br.linkedin.com/in/laurobonometti 
