@@ -1,7 +1,5 @@
 # 📊 Dashboard Analítico de Vendas Globais  
 
-Este repositório contém um **dashboard interativo** desenvolvido no **Power BI** para análise de vendas globais. A solução fornece **insights estratégicos** sobre as vendas, incluindo segmentação por categoria, país, prioridade de pedidos e descontos aplicados.  
-
 
 ## 📌 Objetivo  
 
