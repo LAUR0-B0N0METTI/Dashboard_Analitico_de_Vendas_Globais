@@ -5,13 +5,13 @@
 
 O objetivo deste projeto é fornecer uma visão detalhada das **tendências de vendas globais** com base em um dataset estruturado. A análise permite identificar padrões de compra, categorias de produtos mais vendidas, países com maior volume de vendas e a influência dos descontos aplicados.  
 
-O Dashboard responde as perguntas abaixo:
+O Dashboard responde as perguntas:
 
 • Qual o valor total vendido? <br/>
 • Quantas vendas foram realizadas por categoria de produto? <br/>
 • Quantas vendas foram realizadas por país considerando a prioridade de entrega? <br/>
 • Qual foi a média de desconto nas vendas por subcategoria de produto? <br/>
-• Quais países tiveram maior média de valor de venda? Demonstre em um mapa. 
+• Quais países tiveram maior média de valor de venda?
 
 
 ## 🔍 Principais Métricas e Visualizações  
