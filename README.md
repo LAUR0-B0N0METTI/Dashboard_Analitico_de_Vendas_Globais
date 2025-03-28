@@ -12,7 +12,7 @@ O Dashboard responde as perguntas:
 • Quantas vendas foram realizadas por país considerando a prioridade de entrega? <br/>
 • Qual foi a média de desconto nas vendas por subcategoria de produto? <br/>
 • Quais países tiveram maior média de valor de venda?
-
+<br/>
 
 ## 🔍 Principais Métricas e Visualizações  
 
@@ -61,5 +61,6 @@ Este dashboard fornece uma visão clara do desempenho de vendas, permitindo que 
 ## 📩 Contato  
 
 Caso tenha dúvidas ou sugestões, sinta-se à vontade para entrar em contato:  <br/>
+<br/>
 📧 Email: lauro.f.bonometti@gmail.com <br/>
 🔗 LinkedIn: https://br.linkedin.com/in/laurobonometti 
