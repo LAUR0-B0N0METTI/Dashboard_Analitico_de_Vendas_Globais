@@ -13,6 +13,7 @@ O Dashboard responde as perguntas:
 • Qual foi a média de desconto nas vendas por subcategoria de produto? <br/>
 • Quais países tiveram maior média de valor de venda?
 <br/>
+<br/>
 
 ## 🔍 Principais Métricas e Visualizações  
 
